@@ -1,0 +1,21 @@
+h1 {
+    color: gray;
+    font-style: italic;
+    
+}
+
+body {
+    background-color: #47ff78;
+}
+
+img {    
+    margin: auto;
+    display: block;
+    padding: 0px;
+}
+
+
+h2 {
+    color: gray;
+    font-style: italic;
+}
