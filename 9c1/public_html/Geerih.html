@@ -6,21 +6,67 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>legjobblyatekok.hu (SAJÁT DOMAIN)
+        <title>legjobblyatekok.hu (SAJÁT DOMAIN)</title>
         <meta charset="UTF-8">
+        <link href="css/Geerih.css" rel="stylesheet" type="text/css"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #A87E00;
+}
+
+.container:hover .overlay {
+  opacity: 0.8;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+</style>
     </head>
     <body>
-        <hl>Üdvözöllek, ez a legjobb lyáték</hl>
-        <p> <img src="kepekmappa/oof.png" alt=""/> </p>
-        <h2>Ezen az oldalon vannak a legjobb lyátékok.</h2>
+        <h2>Üdvözöllek, ez a legjobb lyáték</h2>
+        <img src="kepekmappa/oof.png" alt="" width="800" height="230"/>
+        <h3>Ezen az oldalon vannak a legjobb lyátékok.</h3>
         <p>Elsőnek mutatom is a legjobbat, utana meg a rosszabat.</p>
-        <p> <img src="kepekmappa/joblox2.jpg" alt=""/> </p>
+        <img src="kepekmappa/joblox2.jpg" alt="" width="320" height="320"/>
         <p>Most mutatom a legrosszabat.</p>
-        <p> <img src="kepekmappa/r6.jpg" alt=""/> </p>
-        <p>Mutatom a következő jó játékot báttyám:</p>
-        <p> <img src="kepekmappa/fosnite.jpg" alt=""/> </p>
+        <img src="kepekmappa/r6.jpg" alt="" width="600" height="230"/>
+        <p>Mutatom a következő jó játékot báttyám
+            (húzd rá az egeredet a képre hehe):</p>
+        <div class="container">
+        <img src="kepekmappa/fosnite.jpg" alt="Avatar" class="image"/>
+        <div class="overlay">
+            <div class="text">Szevasz Tavasz</div>
+        </div>
+        </div>
         <p>Itt van a következő pipi-pupu játék:</p>
-        <p> <img src="kepekmappa/szieszgo.jpg" alt=""/> </p>
+        <img src="kepekmappa/szieszgo.jpg" alt="" width="340" height="430"/>
     </body>
 </html>
