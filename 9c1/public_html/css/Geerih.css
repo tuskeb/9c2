@@ -1,0 +1,19 @@
+body {
+    background-color: yellow;
+}
+
+h2 {
+    color: green;
+    text-decoration: underline;
+}
+
+h3 {
+    color: red;
+    text-decoration: menutext;
+}
+
+p {
+    color: #641D85;
+    font-family: fantasy;
+    font-size: 24px;
+}
