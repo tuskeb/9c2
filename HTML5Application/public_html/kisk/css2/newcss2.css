@@ -12,11 +12,14 @@ body {
 }
 
 h1 {
-  color: purple;
+  color: brown;
   text-align: center;
 }
 
 p {
   font-family: verdana;
-  font-size: 22px;
+  font-size: 30px;
 }
+img{
+border-radius: 10px 
+}img
