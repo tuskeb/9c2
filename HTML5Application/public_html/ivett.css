@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  text-align: center;
 }
 
 h1 {
@@ -14,4 +15,12 @@ p {
   color: whitesmoke;
   font-family: verdana;
   font-size: 14px;
+}
+
+img {
+    width: 25%  
+}
+
+img {
+  border-radius: 8px;
 }
