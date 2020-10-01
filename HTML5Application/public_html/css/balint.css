@@ -19,6 +19,12 @@ h2 {
     color:red
 } 
 body {
-    background-color:black;
+     background-color:black;
+    text-align: center;
+}
+
+img  {   
+    border-radius: 50px;
+    width: 500px;
 }
 

@@ -8,7 +8,7 @@ and open the template in the editor.
     Author     : user
 */
 h1 {
-  color: navy;
+  color: white;
 }
 
 p {
@@ -22,4 +22,12 @@ h3 {
 }
 body{
     background-color: black;
+        text-align: center;
+
+}
+a{
+    color: pink;
+}
+img{
+    width: 20%
 }
