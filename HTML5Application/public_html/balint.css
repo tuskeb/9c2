@@ -11,7 +11,14 @@ and open the template in the editor.
 h1 {
     color:chartreuse
 }
-
-p {
-    color:red
+p  {
+    color:chartreuse
 }
+
+h2 {
+    color:red
+} 
+body {
+    background-color:black;
+}
+

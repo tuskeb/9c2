@@ -23,3 +23,12 @@ h3 {
 body{
     background-color: black;
 }
+a{
+    color: pink;
+}
+body {
+    text-align: center;
+}
+a{
+    text-align: right;
+}
