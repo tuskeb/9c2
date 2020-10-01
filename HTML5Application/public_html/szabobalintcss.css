@@ -22,10 +22,9 @@ h3 {
 }
 body{
     background-color: black;
+        text-align: center;
+
 }
 a{
     color: pink;
-}
-body {
-    text-align: center;
 }
