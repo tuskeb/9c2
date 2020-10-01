@@ -26,3 +26,9 @@ body{
 a{
     color: pink;
 }
+body {
+    text-align: center;
+}
+a{
+    text-align: right;
+}
