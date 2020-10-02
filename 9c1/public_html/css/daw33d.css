@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 body{
-    background-color: #0095A590;
+    background-color: #0095A5AA;
 }
 
 h1{
@@ -18,5 +18,11 @@ h1{
 
 *{
     margin: 6px
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
