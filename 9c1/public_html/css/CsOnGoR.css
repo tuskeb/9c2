@@ -8,23 +8,32 @@ and open the template in the editor.
     Author     : tanulo
 */
 
- body {background-color: green}
-          
-            p { color:white;
-            font-family:arial}
-           
-            h1 {color:white; 
-                font-family:gabriola; 
-                font-size: 60px; 
-                text-align:center}
-            
-            h2 {color:white; 
-                font-size: 30px;}
-            
-            #kiemel {color:#b30000;
-            font-size:20px}
-            
-            
-            
-          
+body {background-color: green}
+
+p { color:white;
+    font-family:arial}
+
+h1 {color:white; 
+    font-family:gabriola; 
+    font-size: 60px; 
+    text-align:center}
+
+h2 {color:white; 
+    font-size: 30px;}
+
+#kiemel {color:#b30000;
+         font-size:20px}
+
+#kiemel2 {color:#ffff99;
+         font-size:100px;
+         display:inline-block}
+
+.kozepre20 {display:block;
+            margin-left: auto;
+            margin-right: auto;
+            width:25%;
+            height:25%}
+
+
+
 
