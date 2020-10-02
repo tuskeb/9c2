@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.10.02., 8:12:25
+    Author     : tanulo
+*/
+
+ body {background-color: green}
+          
+            p { color:white;
+            font-family:arial}
+           
+            h1 {color:white; 
+                font-family:gabriola; 
+                font-size: 60px; 
+                text-align:center}
+            
+            h2 {color:white; 
+                font-size: 30px;}
+            
+            #kiemel {color:#b30000;
+            font-size:20px}
+            
+            
+            
+          
+
