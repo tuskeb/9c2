@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 body{
-    background-color: gray
+    background-color: #ff4538
 }
 h2{
     text-decoration: underline
@@ -33,3 +33,9 @@ img{
 h1{
     color:darkblue
 }
+h1{
+    text-align: center
+       
+}
+
+
