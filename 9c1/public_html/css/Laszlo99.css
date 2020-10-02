@@ -9,13 +9,13 @@ and open the template in the editor.
 */
 
 body{
-    background-color: red
+    background-color: gray
 }
 h2{
     text-decoration: underline
 }
 div{
-    color:purple
+    color:blue
 }
 div{
       font-style:italic
@@ -29,4 +29,7 @@ h1{
 }
 img{
     opacity: 1
+}
+h1{
+    color:darkblue
 }
