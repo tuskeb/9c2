@@ -14,9 +14,16 @@ img {
     padding: 0px;
 }
 
-.onClick
-
 h2 {
     color: gray;
     font-family: monospace;
+}
+
+ul>li
+{
+    display: block;
+    text-align: right;
+    font-family: monospace;
+        
+    
 }
