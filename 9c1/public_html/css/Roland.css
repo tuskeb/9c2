@@ -25,3 +25,32 @@ h1 {
 h2 {
     color: white;
 }
+
+h1 {
+ font-family: Italic
+}
+
+body {
+    font-family: Italic
+}
+
+div#Menu>ul {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    text-align: center;
+}
+
+div#Menu>ul>li {
+    display: block;
+    color: white;
+    font-family: Italic;
+    display: inline-block;
+    width: 128px
+}
+
+div#Menu>ul>li:hover {
+    color: red;
+    
+}
