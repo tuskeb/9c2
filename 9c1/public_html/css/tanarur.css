@@ -1,9 +1,6 @@
-*{
-    margin: 0px;
-    padding: 0px;
-}
-
 body{
+    padding: 0px;
+    margin: 0px;
     background-color: #A5A5DFFF; /*RRGGBBAA vagy RRGGBB színkeverés, vagy nevek*/
 }
 
@@ -12,7 +9,7 @@ img{
 }
 
 h1, h2{
-   text-decoration: underline;
+    text-decoration: underline;
 }
 
 u{
@@ -20,3 +17,36 @@ u{
     font-style: italic;
     color: blue;
 }
+/* <editor-fold defaultstate="collapsed" desc="Menü">*/
+div#menu>ul{
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    background-color: blue;
+    text-align: center;
+}
+
+
+div#menu>ul>li{
+    display: block;
+    color: white;
+    font-family: sans-serif, arial;
+    display: inline-block;
+    width: 128px;
+}
+
+div#menu>ul>li:hover{
+    color: blue;
+    background-color: white;
+}
+
+div#menu>ul>li a{
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+div#menu>ul>li a:hover{
+    color: blue;
+}
+
+/* </editor-fold> */
