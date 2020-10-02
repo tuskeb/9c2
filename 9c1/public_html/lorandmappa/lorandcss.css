@@ -1,6 +1,6 @@
 h1 {
     color: gray;
-    font-style: italic;
+   font-family: monospace;
     
 }
 
@@ -14,8 +14,9 @@ img {
     padding: 0px;
 }
 
+.onClick
 
 h2 {
     color: gray;
-    font-style: italic;
+    font-family: monospace;
 }
