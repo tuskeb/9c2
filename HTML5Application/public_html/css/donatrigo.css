@@ -1,0 +1,10 @@
+h1{font-family: monospace;
+   font-size: 60px;
+   color: salmon;
+}
+
+img.bicikli{
+    border-radius: 5px;
+    box-shadow: 5px 5px orange;
+    border: black solid 2px;
+}
