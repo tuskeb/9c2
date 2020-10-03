@@ -15,9 +15,7 @@ h2{
     text-decoration: underline
 }
 div{
-    color:blue
-}
-div{
+    color:blue;
       font-style:italic
 }
 
@@ -44,5 +42,29 @@ div{
 u{
     text-decoration: none
         }
-
-
+        .kep{
+            display: block;
+            margin: auto;
+          padding: auto
+              
+        }
+        div#menu>ul{
+            display: block;
+            margin: 0px;
+            padding: 0px;
+            background-color: black;
+            text-align: center;
+            
+        }
+        div#menu>ul>li{
+            display: block;
+            text-align: center;
+            color: white;
+            font-size: 25px;
+           
+                
+                
+        }
+        div#menu>ul>li:hover{
+            color: blue;
+        }
