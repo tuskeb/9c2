@@ -1,3 +1,4 @@
+/* <editor-fold defaultstate="collapsed" desc="Stílus">*/
 h1 {
     text-decoration: underline
 }
@@ -11,7 +12,7 @@ h1 {
 }
 
 body {
-    background-color:activeborder
+    background-color: activecaption
 }
 
 div {
@@ -33,7 +34,9 @@ h1 {
 body {
     font-family: Italic
 }
+/* </editor-fold> */
 
+/* <editor-fold defaultstate="collapsed" desc="Menü">*/
 div#Menu>ul {
     display: block;
     margin: 0px;
@@ -51,6 +54,18 @@ div#Menu>ul>li {
 }
 
 div#Menu>ul>li:hover {
-    color: red;
-    
+    color: black;
+    background-color: activecaption
 }
+
+div#Menu>ul>li a{
+    display: block;
+    color: white;
+        text-decoration: none;
+}
+
+div#Menu>ul>li a:hover {
+    color: blue;
+}
+
+/* </editor-fold> */
