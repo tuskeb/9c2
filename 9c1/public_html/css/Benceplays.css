@@ -1,0 +1,44 @@
+body{
+background-color: #0066ff;
+    
+}
+
+hi{
+color: white;
+}
+
+
+h1,h2,div,p,a{
+color: white;
+}
+
+div#Menu>ul {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    background-color: #0066ff;
+    text-align: center;
+    font-size: 28px
+}
+div#Menu>ul>li {
+    display: block;
+    color: white;
+    font-family: Italic;
+    display: inline-block;
+    width: 300px
+}
+
+div#Menu>ul>li:hover {
+    color: black;
+    background-color: activecaption
+}
+
+div#Menu>ul>li a{
+    display: block;
+    color: white;
+        text-decoration: none;
+}
+
+div#Menu>ul>li a:hover {
+    color: green;
+}
