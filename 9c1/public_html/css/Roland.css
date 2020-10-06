@@ -69,3 +69,20 @@ div#Menu>ul>li a:hover {
 }
 
 /* </editor-fold> */
+
+
+table {
+    border: #ffffff 1px solid;
+    border-collapse: collapse;
+}
+
+table>tbody>tr>td {
+    border: #ffffff 1px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+table>tbody>tr:nth-child(2n) {
+    background-color: white;
+}
+
