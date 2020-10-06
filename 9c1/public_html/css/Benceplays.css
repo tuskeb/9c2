@@ -1,15 +1,15 @@
 body{
-background-color: #0066ff;
-    
+    background-color: #0066ff;
+
 }
 
 hi{
-color: white;
+    color: white;
 }
 
 
 h1,h2,div,p,a{
-color: white;
+    color: white;
 }
 
 div#Menu>ul {
@@ -36,9 +36,33 @@ div#Menu>ul>li:hover {
 div#Menu>ul>li a{
     display: block;
     color: white;
-        text-decoration: none;
+    text-decoration: none;
 }
 
 div#Menu>ul>li a:hover {
     color: green;
 }
+table{
+    border: cyan 1px solid;
+}
+
+table>tbody>tr>td{
+    border: cyan 1px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+table>tbody>tr:nth-child(2n-1){
+    background-color: bisque;
+}
+szine1{
+    background-color: dodgerblue;
+}
+szine2{
+    background-color: red;
+}
+szine3{
+    background-color: yellow;    
+
+}
+
+
