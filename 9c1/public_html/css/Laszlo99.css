@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 body{
-    background-color: #ff4538
+    background-color: white
 }
 h2{
     text-decoration: underline
@@ -70,16 +70,19 @@ u{
         }
         
         table{
-            border: black 5px solid;
+            border: black 1px solid;
             border-collapse: collapse;
         }
         
         table>tbody>tr>td{
-            border: black 5px solid;
+            border: black 1px solid;
             padding-left:  10px;
             padding-right:  10px;
         }
         
-        table>tbody>tr:nth-child(2n-1){
-            background-color: bisque;
+        table>tbody>tr:nth-child(even) td:nth-child(odd){ 
+            background-color:#000 ;
+        }
+         table>tbody>tr:nth-child(odd) td:nth-child(even){ 
+            background-color:#000 ;
         }
