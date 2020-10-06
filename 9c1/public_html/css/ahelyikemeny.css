@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 table {
 border: cyan 1px solid;
-border-collapse: collapse:
+border-collapse: collapse;
 }
 table>tbody>tr>td{
     border: #47ff78 1px solid;
@@ -19,7 +19,7 @@ table>tbody>tr {
     border: #ffffff 1px solid;
 }
 table>tbody>tr:nth-child(2n) {
-    backround-color: red;
+    background-color: red;
 }
 egyes {
     background-color: #ff0000;
