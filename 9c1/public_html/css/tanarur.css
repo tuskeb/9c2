@@ -1,7 +1,6 @@
 body{
     padding: 0px;
     margin: 0px;
-    background-color: #A5A5DFFF; /*RRGGBBAA vagy RRGGBB színkeverés, vagy nevek*/
 }
 
 img{
@@ -50,3 +49,28 @@ div#menu>ul>li a:hover{
 }
 
 /* </editor-fold> */
+
+
+
+table{
+    border: #ff4538 1px solid;
+    border-collapse: collapse;
+}
+
+table>tbody>tr>td{
+    border: #ff4538 1px solid;
+    
+    width: 40px;
+    height: 40px;
+}
+
+table>tbody>tr:nth-child(2n-1){
+    background-color: bisque;
+}
+
+
+
+
+
+
+
