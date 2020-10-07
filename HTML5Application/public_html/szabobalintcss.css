@@ -65,5 +65,7 @@ table.egyis>thead>tr:nth-child(1){
     background-color: wheat;
 }
 caption{
-    color: orange;
+    color: aqua;
+    border: crimson 2px solid;
+    background-color: chocolate;
 }
