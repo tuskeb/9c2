@@ -32,13 +32,19 @@ img{
     width: 20%
 }
 table{
-    color: aquamarine;
+    color: black;
 }
 table.egyis{
-    border: yellow 2px solid;
+    border: crimson 2px solid;
     border-radius: 10px;
     box-shadow: 4px 4px 10px 0px #7f7f7f;
     width: 100%;
+    border-collapse: collapse;
+    background-color: greenyellow;    
+}
+table.egyis>tbody>tr>td{
+    border: #7f7f7f 2px solid;
+    border-color: crimson;
     
 }
 
