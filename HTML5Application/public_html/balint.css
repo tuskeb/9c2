@@ -26,12 +26,10 @@ body {
 table.elsö{
     border: graytext 5px solid;
     border-radius: 7px;
-    box-shadow: 4px 2px 12px 0px #000000;
     width: 20%;
     border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
-    background: white;
     caption-side: bottom;
 }
 
@@ -53,4 +51,14 @@ table.elsö>tbody>tr:nth-child(1n){
 
 table.elsö>tbody>tr:nth-child(2n+2) {
     background-color: lightyellow;
+}
+
+caption{
+    color:black;
+    border: graytext 5px solid;
+    background-color: lightsalmon;
+}
+
+thead{
+    background-color: lightgreen;
 }
