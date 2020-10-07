@@ -19,21 +19,12 @@ h2 {
     color:red
 } 
 body {
-    background-color:white;
-    text-align:center;  
+     background-color:black;
+    text-align: center;
 }
 
-table.elsö{
-    border: black 2px solid;
-    border-radius: 7px;
-    box-shadow: 4px 2px 12px 0px #000000;
-    width: 3%;
+img  {   
+    border-radius: 50px;
+    width: 500px;
 }
 
-img{
-    width: 75%;
-}
-
-table.elsö>tbody>tr>td{
-    border: #000000
-}

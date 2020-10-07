@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+p {
+  color: whitesmoke;
+  font-family: verdana;
+  font-size: 14px;
+}
+
+img {
+    width: 25%  
+}
+
+img {
+  border-radius: 8px;
+}
