@@ -57,3 +57,7 @@ table.egyik>tbody>tr:nth-child(3){
 table.egyik>tbody>tr:nth-child(4){
     background-color: sandybrown;
 }
+
+table.masik{
+    color: white;
+}
