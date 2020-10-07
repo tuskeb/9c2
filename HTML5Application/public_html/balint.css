@@ -24,16 +24,15 @@ body {
 }
 
 table.elsö{
-    border: greenyellow 5px solid;
+    border: graytext 5px solid;
     border-radius: 7px;
     box-shadow: 4px 2px 12px 0px #000000;
-    width: 4%;
+    width: 20%;
     border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
-    background: orange;
-
-    
+    background: white;
+    caption-side: bottom;
 }
 
 img{
@@ -41,6 +40,17 @@ img{
 }
 
 table.elsö>tbody>tr>td{
-    border: greenyellow 5px solid;
+    border: graytext 3px solid;
 }
 
+table.elsö>tbody>tr:nth-child(3n){
+    background-color: lightskyblue;
+}
+
+table.elsö>tbody>tr:nth-child(1n){
+    background-color: lightskyblue;
+}
+
+table.elsö>tbody>tr:nth-child(2n+2) {
+    background-color: lightyellow;
+}
