@@ -28,7 +28,8 @@ img {
 table.egyik{
     border: black 2px solid;
     border-radius: 5px;
-    box-shadow: 4px 4px 10px 0px #7f7f7f
+    box-shadow: 4px 4px 10px 0px #7f7f7f;
+    color: white;
 }
         
 table.egyik>tbody>tr>td{
@@ -42,9 +43,17 @@ table.egyik>tbody>tr>td{
 }
 
 table.egyik>tbody>tr:nth-child(1){
-    background-color: lightyellow;
+    background-color: graytext;
 }
 
 table.egyik>tbody>tr:nth-child(2){
     background-color: lightcoral;
+}
+
+table.egyik>tbody>tr:nth-child(3){
+    background-color: lightskyblue;
+}
+
+table.egyik>tbody>tr:nth-child(4){
+    background-color: sandybrown;
 }
