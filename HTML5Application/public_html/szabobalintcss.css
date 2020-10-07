@@ -39,6 +39,11 @@ table.egyis{
     border-radius: 10px;
     box-shadow: 4px 4px 10px 0px #7f7f7f;
     width: 100%;
+    border-collapse: collapse;
     
+}
+table.egyis>tbody>tr>td{
+    border: #7f7f7f 1px solid;
+    border-color: yellow;
 }
 
