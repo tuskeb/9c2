@@ -21,8 +21,8 @@ p {
   font-size: 30px;
 }
 table.harmadis>tbody>tr>td{
-    border: #7f7f7f 2px solid;
-    border-color: crimson;
+    border: #845874 3px solid;
+    border-color: orange;
     
 }
 table.harmadis>tbody>tr:nth-child(3){
@@ -35,7 +35,7 @@ table.harmadis>tbody>tr:nth-child(1){
     background-color: seashell;
 }
 table.harmadis>tbody>tr:nth-child(2){
-    background-color: greenyellow;
+    background-color: lightblue;
 }
 table.harmadis>thead>tr:nth-child(1){
     background-color: white
