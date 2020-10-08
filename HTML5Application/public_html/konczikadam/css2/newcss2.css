@@ -20,6 +20,27 @@ p {
   font-family: verdana;
   font-size: 30px;
 }
-img{
-border-radius: 10px 
-}img
+table.harmadis>tbody>tr>td{
+    border: #7f7f7f 2px solid;
+    border-color: crimson;
+    
+}
+table.harmadis>tbody>tr:nth-child(3){
+    background-color: #f9d2e2;
+}
+table.harmadis>tbody>tr:nth-child(4){
+    background-color: lightseagreen;
+}
+table.harmadis>tbody>tr:nth-child(1){
+    background-color: seashell;
+}
+table.harmadis>tbody>tr:nth-child(2){
+    background-color: greenyellow;
+}
+table.harmadis>thead>tr:nth-child(1){
+    background-color: white
+caption{
+    color: aqua;
+    border: crimson 2px solid;
+    background-color: chocolate;
+}
