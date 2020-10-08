@@ -1,5 +1,5 @@
 body {
-    background-color: yellow;
+    background-color: white;
 }
 
 h2 {
@@ -16,4 +16,21 @@ p {
     color: #641D85;
     font-family: fantasy;
     font-size: 24px;
+}
+
+table {
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+
+table>tbody>tr>td{
+    border: black 0.30px solid;
+}
+
+table tr:nth-child(even) td:nth-child(odd) {
+    background: #000;
+}
+
+table tr:nth-child(odd) td:nth-child(even) {
+  background: #000;
 }
