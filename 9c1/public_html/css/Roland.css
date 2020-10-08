@@ -70,7 +70,7 @@ div#Menu>ul>li a:hover {
 
 /* </editor-fold> */
 
-
+/* <editor-fold defaultstate="collapsed" desc="Táblázat">*/
 table {
     border: #ffffff 1px solid;
     border-collapse: collapse;
@@ -82,6 +82,7 @@ table>tbody>tr>td {
     padding-right: 10px;
 }
 
-table>tbody>tr:nth-child(2n) {
-    background-color: white;
+table>tbody>tr>td {
+    color: white;
 }
+/* </editor-fold> */
