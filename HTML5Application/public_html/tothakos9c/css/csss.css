@@ -1,0 +1,22 @@
+body{
+    background: black
+}
+h1{
+    color: white
+}
+h2{
+    color: white
+}
+p{
+    color: white
+}
+table.egyikfajta{
+    color: white;
+    border-collapse: collapse
+}
+table.egyikfajta, tr, td{
+    border: 1px solid white
+}
+caption{
+    border: 1px solid white
+}
