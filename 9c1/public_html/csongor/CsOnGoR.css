@@ -9,17 +9,18 @@ h1 {color:white;
 h2 {color:white; 
     font-size: 30px;}
 
-#kiemel {color:#b30000;
+#kiemel {color:white;
          font-size:20px}
 
-#kiemel2 {color:#ffff99;
+#kiemel2 {color:white;
           font-size:100px;
           display:inline-block}
 
 .kozepre20 {display:block;
-            margin-left:700px}
+            margin-left:auto;
+margin-right:auto}
 
-table {border: aqua 1px solid; margin-left:500px; margin-bottom:100px;}
+table {border: aqua 1px solid; margin-left:auto; margin-right:auto; margin-bottom:100px;}
 
 table>tbody>tr>td {border:aqua 1px solid; width: 60px; height: 60px; font-size:50px; text-align:center}
 
@@ -27,6 +28,6 @@ table>tbody>tr {background-color:rgb(28,163,156); color:white}
 
 a {border: 1px black solid; background-color:gray; font-size:50px;}
 
-a:hover {color:white; margin-left:200px;} 
+a:hover {color:white;} 
 
 #lama {color:green}
