@@ -5,7 +5,7 @@ h1 {
 }
 
 body {
-    background-color: #47ff78;
+    background-color: grey;
 }
 
 img {    
@@ -61,7 +61,57 @@ div {
 }
 
 a{
-    position: absolute;
-    right: 3px;
+    
+ 
+  display: inline-block;
   
+}
+
+table {
+    display: block;
+        margin: 30px;
+      
+    
+}
+
+body{
+    padding: 30px;
+    margin: 0px;
+}
+
+a.yt{
+    color: red;
+   font-family: fantasy;
+   font-size: 20px;
+   text-decoration: none;
+   text-align: left;
+  
+}    
+
+a.info {
+    
+    color: black;
+   font-family: fantasy;
+   font-size: 20px;
+   text-decoration: none;
+   text-align: left;
+    
+}
+
+a.cnt {
+     color: yellow;
+   font-family: fantasy;
+   font-size: 20px;
+   text-decoration: none;
+   text-align: left;
+    
+}
+
+a.shop {
+    color: green;
+   font-family: fantasy;
+   font-size: 20px;
+   text-decoration: none;
+   text-align: left;
+    
 }
