@@ -1,0 +1,68 @@
+body{
+    background-color: #0066ff;
+
+}
+
+hi{
+    color: white;
+}
+
+
+h1,h2,div,p,a{
+    color: white;
+}
+
+div#Menu>ul {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    background-color: #0066ff;
+    text-align: center;
+    font-size: 28px
+}
+div#Menu>ul>li {
+    display: block;
+    color: white;
+    font-family: Italic;
+    display: inline-block;
+    width: 300px
+}
+
+div#Menu>ul>li:hover {
+    color: black;
+    background-color: activecaption
+}
+
+div#Menu>ul>li a{
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+
+div#Menu>ul>li a:hover {
+    color: green;
+}
+table{
+    border: cyan 1px solid;
+}
+
+table>tbody>tr>td{
+    border: cyan 1px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+table>tbody>tr:nth-child(2n-1){
+    background-color: bisque;
+}
+szine1{
+    background-color: dodgerblue;
+}
+szine2{
+    background-color: red;
+}
+szine3{
+    background-color: yellow;    
+
+}
+
+
