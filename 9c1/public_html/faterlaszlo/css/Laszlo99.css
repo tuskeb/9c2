@@ -48,27 +48,40 @@ u{
           padding: auto
               
         }
-        div#menu>ul{
+/* </editor-fold defaultstate="collapsed"  desc="Menu">*/ 
+        div#Menu>ul{   
             display: block;
             margin: 0px;
             padding: 0px;
             background-color: black;
             text-align: center;
-            
         }
-        div#menu>ul>li{
+   
+        
+        div#Menu>ul>li{
             display: block;
             text-align: center;
             color: white;
-            font-size: 25px;
+            display: inline-block;
+            font-family: Italic;
+            width: 128px;
            
-                
-                
         }
-        div#menu>ul>li:hover{
+        div#Menu>ul>li:hover{
             color: blue;
+            background-color: activecaption;
         }
         
+        div#Menu>ul>li a{
+            display: block;
+            color: white;
+            text-decoration: none;
+        }
+        div#Menu>ul>li a:hover{
+            color:blue
+        }
+/* </editor-fold> */       
+/* <editor-fold defaultstate="collapsed" desc="Táblázat">*/        
         table{
             border: black 1px solid;
             border-collapse: collapse;
@@ -86,3 +99,4 @@ u{
          table>tbody>tr:nth-child(odd) td:nth-child(even){ 
             background-color:#000 ;
         } 
+/* </editor-fold> */        
