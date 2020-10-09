@@ -9,15 +9,13 @@ and open the template in the editor.
 */
 
 body{
-    background-color: #ff4538
+    background-color: white
 }
 h2{
     text-decoration: underline
 }
 div{
-    color:blue
-}
-div{
+    color:blue;
       font-style:italic
 }
 
@@ -39,13 +37,52 @@ h1{
 }
 div{
     display:block;
-    margin: 
+    margin: 0px
 }
 u{
     text-decoration: none
-        margin:0px
-        padding:0px
+        }
+        .kep{
+            display: block;
+            margin: auto;
+          padding: auto
+              
+        }
+        div#menu>ul{
+            display: block;
+            margin: 0px;
+            padding: 0px;
+            background-color: black;
+            text-align: center;
+            
+        }
+        div#menu>ul>li{
+            display: block;
+            text-align: center;
+            color: white;
+            font-size: 25px;
+           
+                
+                
+        }
+        div#menu>ul>li:hover{
+            color: blue;
+        }
         
-}
-
-
+        table{
+            border: black 1px solid;
+            border-collapse: collapse;
+        }
+        
+        table>tbody>tr>td{
+            border: black 1px solid;
+            padding-left:  10px;
+            padding-right:  10px;
+        }
+        
+        table>tbody>tr:nth-child(even) td:nth-child(odd){ 
+            background-color:#000 ;
+        }
+         table>tbody>tr:nth-child(odd) td:nth-child(even){ 
+            background-color:#000 ;
+        } 

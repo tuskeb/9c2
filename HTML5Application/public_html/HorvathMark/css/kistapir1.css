@@ -1,0 +1,35 @@
+table.egyikfajta{
+    border: black 2px solid;
+    border-radius: 5px;
+    box-shadow: 4px 4px 10px 0px #7f7f7f;
+    border-spacing: 0px;
+    /*border-collapse: collapse;*/
+    caption-side: top;
+}
+
+table.egyikfajta>tbody>tr>td{
+    border: #7f7f7f 2px solid;
+    min-width: 150px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+
+table.egyikfajta>tbody>tr:nth-child(2n){
+    background-color: #d4d4d4;
+}
+
+table.egyikfajta>tbody>tr:nth-child(2n+1){
+    background-color: #84c754;
+}
+
+table.egyikfajta>thead>tr>th{
+   background-color: darkblue;
+   color: orange;
+}
+
+table.egyikfajta>caption{
+    background-color: red;
+   
+}

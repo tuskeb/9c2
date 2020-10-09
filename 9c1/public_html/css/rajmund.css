@@ -4,21 +4,17 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : 2020.09.30., 12:28:21
+    Created on : 2020.10.06., 13:27:06
     Author     : user
 */
-
-h1 {
-    color:chartreuse
+body{
+    background-color: burlywood
+        
 }
-p  {
-    color:chartreuse
+table{
+    border: #33b5e5 1px solid;
+    
+    padding-left:10px;
+    padding-right: 10px;
+    
 }
-
-h2 {
-    color:red
-} 
-body {
-    background-color:black;
-}
-
