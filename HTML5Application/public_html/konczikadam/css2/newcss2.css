@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.10.01., 9:59:40
+    Author     : tanulo
+*/
+body {
+  background-color: burlywood;
+}
+
+h1 {
+  color: brown;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 30px;
+}
+table.harmadis>tbody>tr>td{
+    border: #845874 3px solid;
+    border-color: orange;
+    
+}
+table.harmadis>tbody>tr:nth-child(3){
+    background-color: #f9d2e2;
+}
+table.harmadis>tbody>tr:nth-child(4){
+    background-color: lightseagreen;
+}
+table.harmadis>tbody>tr:nth-child(1){
+    background-color: seashell;
+}
+table.harmadis>tbody>tr:nth-child(2){
+    background-color: lightblue;
+}
+table.harmadis>thead>tr:nth-child(1){
+    background-color: white
+caption{
+    color: aqua;
+    border: crimson 2px solid;
+    background-color: chocolate;
+}
