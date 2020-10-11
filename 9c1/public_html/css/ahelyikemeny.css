@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.10.02., 8:06:29
+    Author     : tanulo
+*/
+table {
+border: cyan 1px solid;
+border-collapse: collapse;
+}
+table>tbody>tr>td{
+    border: #47ff78 1px solid;
+}
+
+table>tbody>tr {
+    border: #ffffff 1px solid;
+}
+table>tbody>tr:nth-child(2n) {
+    background-color: red;
+}
+egyes {
+    background-color: #ff0000;
+}
+
+zwei {
+    background-color: #641D85;
+}
+drei {
+    color: #ff0000
+}

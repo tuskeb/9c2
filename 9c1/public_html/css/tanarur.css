@@ -1,0 +1,76 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+img{
+    opacity: 0.5; /*0.0...1.0*/
+}
+
+h1, h2{
+    text-decoration: underline;
+}
+
+u{
+    text-decoration: none;
+    font-style: italic;
+    color: blue;
+}
+/* <editor-fold defaultstate="collapsed" desc="Menü">*/
+div#menu>ul{
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    background-color: blue;
+    text-align: center;
+}
+
+
+div#menu>ul>li{
+    display: block;
+    color: white;
+    font-family: sans-serif, arial;
+    display: inline-block;
+    width: 128px;
+}
+
+div#menu>ul>li:hover{
+    color: blue;
+    background-color: white;
+}
+
+div#menu>ul>li a{
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+div#menu>ul>li a:hover{
+    color: blue;
+}
+
+/* </editor-fold> */
+
+
+
+table{
+    border: #ff4538 1px solid;
+    border-collapse: collapse;
+}
+
+table>tbody>tr>td{
+    border: #ff4538 1px solid;
+    
+    width: 40px;
+    height: 40px;
+}
+
+table>tbody>tr:nth-child(2n-1){
+    background-color: bisque;
+}
+
+
+
+
+
+
+
