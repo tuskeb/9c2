@@ -1,58 +1,46 @@
 /*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.10.01., 9:59:40
+    Author     : tanulo
+*/
+body {
+  background-color: burlywood;
+}
 
 h1 {
-    color:chartreuse
-}
-p  {
-    color:chartreuse
+  color: brown;
+  text-align: center;
 }
 
-h2 {
-    color:red
-} 
-body {
-    background-color:black;
-    text-align:center;  
+p {
+  font-family: verdana;
+  font-size: 30px;
 }
-
-table.elsö{
-    border: graytext 5px solid;
-    border-radius: 7px;
-    width: 20%;
-    border-collapse: collapse;
-    margin-left: auto;
-    margin-right: auto;
-    caption-side: bottom;
-    text-align: center;
+table.harmadis>tbody>tr>td{
+    border: #845874 3px solid;
+    border-color: orange;
+    
 }
-
-img{
-    width: 75%;
+table.harmadis>tbody>tr:nth-child(3){
+    background-color: #f9d2e2;
 }
-
-table.elsö>tbody>tr>td{
-    border: graytext 3px solid;
+table.harmadis>tbody>tr:nth-child(4){
+    background-color: lightseagreen;
 }
-
-table.elsö>tbody>tr:nth-child(3n){
-    background-color: lightskyblue;
+table.harmadis>tbody>tr:nth-child(1){
+    background-color: seashell;
 }
-
-table.elsö>tbody>tr:nth-child(1n){
-    background-color: lightskyblue;
+table.harmadis>tbody>tr:nth-child(2){
+    background-color: lightblue;
 }
-
-table.elsö>tbody>tr:nth-child(2n+2) {
-    background-color: lightyellow;
-}
-
+table.harmadis>thead>tr:nth-child(1){
+    background-color: white
 caption{
-    color:black;
-    border: graytext 5px solid;
-    background-color: lightsalmon;
+    color: aqua;
+    border: crimson 2px solid;
+    background-color: chocolate;
 }
-
-thead{
-    background-color: lightgreen;
-}
-
