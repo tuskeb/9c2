@@ -1,0 +1,102 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.09.29., 13:39:57
+    Author     : user
+*/
+
+body{
+    background-color: white
+}
+h2{
+    text-decoration: underline
+}
+div{
+    color:blue;
+      font-style:italic
+}
+
+h2{
+    color:black;
+}
+h1{
+    font-style:italic
+}
+img{
+    opacity: 1
+}
+h1{
+    color:darkblue
+}
+h1{
+    text-align: center
+       
+}
+div{
+    display:block;
+    margin: 0px
+}
+u{
+    text-decoration: none
+        }
+        .kep{
+            display: block;
+            margin: auto;
+          padding: auto
+              
+        }
+/* </editor-fold defaultstate="collapsed"  desc="Menu">*/ 
+        div#Menu>ul{   
+            display: block;
+            margin: 0px;
+            padding: 0px;
+            background-color: black;
+            text-align: center;
+        }
+   
+        
+        div#Menu>ul>li{
+            display: block;
+            text-align: center;
+            color: white;
+            display: inline-block;
+            font-family: Italic;
+            width: 128px;
+           
+        }
+        div#Menu>ul>li:hover{
+            color: blue;
+            background-color: activecaption;
+        }
+        
+        div#Menu>ul>li a{
+            display: block;
+            color: white;
+            text-decoration: none;
+        }
+        div#Menu>ul>li a:hover{
+            color:blue
+        }
+/* </editor-fold> */       
+/* <editor-fold defaultstate="collapsed" desc="Táblázat">*/        
+        table{
+            border: black 1px solid;
+            border-collapse: collapse;
+        }
+        
+        table>tbody>tr>td{
+            border: black 1px solid;
+            padding-left:  10px;
+            padding-right:  10px;
+        }
+        
+        table>tbody>tr:nth-child(even) td:nth-child(odd){ 
+            background-color:#000 ;
+        }
+         table>tbody>tr:nth-child(odd) td:nth-child(even){ 
+            background-color:#000 ;
+        } 
+/* </editor-fold> */        
