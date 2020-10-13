@@ -7,7 +7,6 @@ and open the template in the editor.
     Created on : 2020.10.13., 12:58:43
     Author     : user
 */
-
 body{
     background-color:#ffebcd;
     width: 80%;
@@ -23,13 +22,8 @@ hr{
 
 div#kozepso tr, td{
     border: 3px white solid;
-    border-radius:12px;
-    box-shadow: 5px 10px;
-}
-
-div#kozepso td#gomb{
-    
-    background-color:#66FF66;
+    border-radius:50px;
+    padding:10px;
 }
 
 div#fejlec{
@@ -46,14 +40,55 @@ div#kozepso{
     border:2px #e9967a solid;
     border-radius:12px;
     text-align:center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 table{
     margin:auto;
+    border-spacing: 30px;
+    float: top;
+}
+
+div#kozepso table td {
+    box-shadow: 0 0 0 1pt grey;
+    color:white;
+}
+div#kozepso table caption{
+    text-align:center;
+    color:grey;
+}
+
+div#orvos{
+    background-color:white;
+    border:2px #e9967a solid;
+    border-radius:12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div#kozlekedes{
+    background-color:white;
+    border:2px #e9967a solid;
+    border-radius:12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div#kep{
+    background-color:white;
+    border:2px #e9967a solid;
+    border-radius:12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom:25px;
 }
 img{
     display: block;
     width: 96%;
+    margin:auto;
+    border:1px black solid;
+    padding:5px;
 }
 
 h2{
