@@ -1,21 +1,9 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 2020.10.13., 13:45:32
-    Author     : user
-*/
 h1{
-    width:50px;
-    margin-left: auto;
-    margin-right: auto;
-    border-bottom: color:; lenght; solid;
-    padding-bottom: 5px; 
+   text-align: center;
     text-decoration: underline;
 }
-body{
+body {
+    color: #A52A2A;
     background-color: #FFEBCD;
 }
 h2{
@@ -26,15 +14,11 @@ kep{
     border: black;
 }
 p{
-    color: black;
-    padding: auto;
-    margin: auto;
-    
+    background-color: white;
 }
 valami{
     border: black;
     padding-left: 10px;
     width: 80px
 }
-
 
