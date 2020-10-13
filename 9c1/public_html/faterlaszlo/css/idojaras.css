@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.10.13., 13:45:32
+    Author     : user
+*/
+h1{
+    width:50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: color:; lenght; solid;
+    padding-bottom: 5px; 
+    text-decoration: underline;
+}
+body{
+    background-color: #FFEBCD;
+}
+h2{
+    text-align: center;
+}
+kep{
+    box-shadow:50px;
+    border: black;
+}
+p{
+    color: black;
+    padding: auto;
+    margin: auto;
+    
+}
+valami{
+    border: black;
+    padding-left: 10px;
+    width: 80px
+}
+
+
