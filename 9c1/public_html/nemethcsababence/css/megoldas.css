@@ -22,5 +22,20 @@ body{
 #emezszine{
     background-color: white;
 }
+#borderszine,#kozep,#cucszine,#tablaszine,#emezszine,#kep{
+    border: 2px white;
+    border-radius: 5px;
+}
 
-
+.kor1{
+    border: 2px white;
+    border-radius: 5px;
+}
+.kor2{
+  border: 2px white;
+  border-radius: 5px;
+}
+.kor3{
+  border: 2px white;
+  border-radius: 5px;
+}
