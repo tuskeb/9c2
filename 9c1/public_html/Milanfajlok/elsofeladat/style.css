@@ -47,16 +47,17 @@ div#kozepso{
 table{
     margin:auto;
     border-spacing: 30px;
-    float: top;
 }
 
 div#kozepso table td {
     box-shadow: 0 0 0 1pt grey;
     color:white;
 }
-div#kozepso table caption{
+caption{
     text-align:center;
     color:grey;
+    caption-side: bottom;
+    padding:10px;
 }
 
 div#orvos{
