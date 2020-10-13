@@ -9,14 +9,35 @@ and open the template in the editor.
 */
 
 body{
-    background-color: #66FF66; 
+    background-color:#ff9999: 
+    
+}
+h2{
+     font-family:sans-serif;
+     
+     
+    color: #ff0033;
 }
 
 p {
-    color: violet;
-    text-decoration: underline;
+    font-family: sans-serif;
+    color: #ff0033;
+}
+h1{
+    font-family: sans-serif;
+    color: #ff0033;
+    font-style:italic  ;
+    margin-left: 850px;
+    margin-right: 850px;
+    
+    
+}
+div{
+     
+    
+    
 }
 img{
-    border-color:#ff0000;
-    border-style: ridge
+   border: transparent;
+   box-shadow:cadetblue;
 }
