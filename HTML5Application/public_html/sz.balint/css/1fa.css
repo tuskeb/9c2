@@ -52,6 +52,8 @@ td{
 }
 caption{
     color: grey;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 .divketo{
     border-bottom: #cc6600 1px solid;
