@@ -1,0 +1,48 @@
+body {
+  background-color: bisque;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: maroon;
+  padding-bottom: 5px;
+}
+
+h2 {
+  color: maroon;
+}
+
+p {
+  color: maroon;
+  line-height: 20px;
+}
+
+p1 {
+  color: grey;
+}
+
+div {
+    border-bottom: maroon 1px solid;
+    border: maroon 1px solid;
+    border-radius: 17px;
+    margin-bottom: 15px;
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+img {
+    width: 60%;
+    border: grey 1px solid;
+}
+
+table {
+    margin: auto;
+    min-width: 150px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 16px;
+}
