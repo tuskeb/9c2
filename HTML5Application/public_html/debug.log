@@ -1,0 +1,2 @@
+[1011/095259.714:ERROR:settings.cc(430)] Settings version is not 5
+[1011/100259.728:ERROR:directory_reader_win.cc(43)] FindFirstFile: A rendszer nem találja a megadott elérési utat. (0x3)
