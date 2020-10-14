@@ -34,7 +34,7 @@ table.idojaras1{
     caption-side: bottom;
     margin-left: auto;
     margin-right: auto;
-    width: 200px;
+    width: 400px;
 }
 img{
     border: grey 1px solid;
@@ -42,8 +42,25 @@ img{
 }    
 td{
     border: white 5px solid;
-    border-radius: 100px;
+    border-radius: 200px;
 }
 caption{
     color: grey;
+}
+.divketo{
+    border-bottom: #cc6600 1px solid;
+    margin-left: 750px;
+    margin-right: 750px;
+}
+table.idojaras1 td:nth-child(1){
+    background-color: green;
+    box-shadow: 5px 5px 5px;
+}
+table.idojaras1 td:nth-child(2){
+    background-color: navy;
+    box-shadow: 5px 5px 5px;
+}
+table.idojaras1 td:nth-child(3){
+    background-color: red;
+    box-shadow: 5px 5px 5px;
 }
