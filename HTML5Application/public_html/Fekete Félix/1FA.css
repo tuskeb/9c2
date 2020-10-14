@@ -14,9 +14,19 @@ img{
 div{
     background:white;
     color: firebrick;
-        
 }
 body{
     background: #ffeecc;
+    
+}
+h1{margin-left: auto;
+   text-align: center;
+   margin-bottom: 10px;
+   padding-bottom: 5px;
+   border-bottom: red 1px solid;
+   color: #990000  
+}
+p{
+    
     
 }
