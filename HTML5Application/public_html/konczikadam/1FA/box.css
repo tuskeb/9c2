@@ -12,3 +12,17 @@ img{
     display: block;
     width: 96%;
 }
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+Click
