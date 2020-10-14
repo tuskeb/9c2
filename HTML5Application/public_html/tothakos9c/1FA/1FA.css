@@ -56,8 +56,39 @@ div.ötödik {
 }
 
 table>caption {
+    margin-bottom: 5px;
+    color: gray;
+    margin-top: 20px;
     
+}
+table {
+    color: white;
+   caption-side: bottom;
+   text-align: center;
+   margin-left: auto;
+    margin-right: auto;
+    width: 250px;
 }
 h2 {
     text-align: center;
 }
+ table td:nth-child(1){
+    background-color: green;
+    border: #f0f5f5 4px solid;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px 5px #7f7f7f;
+}
+
+table td:nth-child(2){
+    background-color: blue;
+    box-shadow: 5px 5px 5px 5px #7f7f7f;
+    border: white 4px solid;
+    border-radius: 25px;
+}
+
+table td:nth-child(3){
+    background-color: red;
+    box-shadow: 5px 5px 5px 5px #7f7f7f;
+    border: white 4px solid;
+    border-radius: 25px;
+}   
