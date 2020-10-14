@@ -32,6 +32,7 @@ img{
 }
 
 caption{
+    margin: 18px;
     color:gray;
     caption-side: bottom;
 }
@@ -74,6 +75,8 @@ table.nemtom td:nth-child(3){
 
 td{
     color: white;
+    padding: 4px;
 }
+
 
 
