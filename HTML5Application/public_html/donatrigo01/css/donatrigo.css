@@ -8,3 +8,10 @@ img.bicikli{
     box-shadow: 5px 5px orange;
     border: black solid 2px;
 }
+
+img.gamer{
+    border-radius: 5px;
+    box-shadow: 5px 5px blueviolet;
+    border: royalblue solid 2px;   
+}
+
