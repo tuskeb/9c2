@@ -1,0 +1,14 @@
+*{
+    border: red 1px solid;
+    padding: 8px;
+    margin: 8px;
+}
+
+* *{
+    opacity: 0.7;
+}
+
+img{
+    display: block;
+    width: 96%;
+}
