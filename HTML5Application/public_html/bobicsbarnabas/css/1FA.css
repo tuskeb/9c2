@@ -1,0 +1,27 @@
+
+html {
+    background: #ffeecc
+}
+div {  
+    background: #ffffff;
+    border-radius: 30px;
+    padding: 1px;
+    margin: 15px;
+    line-height: 19px;
+}
+
+h2 {
+    color: #993300;
+    text-align: center
+
+}
+
+h1 {
+    color: #993300;
+    margin-left: auto;
+    width: 100%;
+    text-align: center;
+    border-bottom: red 1px solid;
+    padding-bottom: 6px;
+    margin-bottom: 10px;
+}
