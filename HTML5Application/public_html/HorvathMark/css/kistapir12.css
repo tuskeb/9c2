@@ -1,15 +1,54 @@
-*{
-    border: red 1px solid;
-    padding: 8px;
-    margin: 8px;
+div.doboz{
+    background-color: #ffeecc;
+}
+body{
+    background:  #ffeecc;
+    color: firebrick
 }
 
-* *{
-    opacity: 0.7;
+div{
+    background: white;
 }
 
-img{
-    display: block;
-    width: 96%;
+table>tbody>tr>td.zöld{
+    color: white;
+    background-color: #00802b;
 }
 
+table>tbody>tr>td.kék{
+    color: white;
+    background-color: #0000ff;
+}
+
+table>tbody>tr>td.piros{
+    color: white;
+    background-color: #ff0000;
+}
+
+table>caption{
+    color: gray;
+}
+table{
+    caption-side: bottom;
+}
+
+h1{
+    margin-left: auto;
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: red 1px solid;
+    margin-right: auto;
+    width: 50%;
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+}
+div.box{
+    padding: 5px;
+    line-height: 19px;
+    border-radius: 10px;
+    margin: 20px;
+    font-family: sans-serif;
+    border: orange 1px solid;
+}

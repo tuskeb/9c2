@@ -1,0 +1,38 @@
+img{
+    display: block;
+    width: 96%;
+    
+}
+div{
+    background:white;
+    color:firebrick;
+    border-radius: 5px;
+    border: 2px solid red;
+    
+}
+body{
+    background:#ffeecc;
+    border-radius: 5px;
+    border: 2px solid red;
+    line-height: 19px;
+       
+}
+h1{
+    width: 50%;
+    margin-left: auto;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-bottom: red 1px solid;
+    margin-right: auto;
+}
+p{
+    border-radius: 5px;
+    border: 2px solid red;
+    padding: 5px;
+    font-family: sans-serif;
+    margin: 10px;
+    
+}
+h2{border-radius: 5px;
+    border: 2px solid red;}
