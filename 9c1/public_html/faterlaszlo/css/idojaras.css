@@ -1,0 +1,24 @@
+h1{
+   text-align: center;
+    text-decoration: underline;
+}
+body {
+    color: #A52A2A;
+    background-color: #FFEBCD;
+}
+h2{
+    text-align: center;
+}
+kep{
+    box-shadow:50px;
+    border: black;
+}
+p{
+    background-color: white;
+}
+valami{
+    border: black;
+    padding-left: 10px;
+    width: 80px
+}
+
