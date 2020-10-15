@@ -9,14 +9,14 @@ and open the template in the editor.
 */
 
 body{
-    background-color: white
+    background-color: white;
 }
 h2{
-    text-decoration: underline
+    text-decoration: underline;
 }
 div{
     color:blue;
-      font-style:italic
+      font-style:italic;
 }
 
 h2{
