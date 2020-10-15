@@ -1,0 +1,48 @@
+img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    display: block;
+    outline: 4px;
+    outline-color: black;
+}
+body{
+    background-color: #FFEBCD;
+}
+div{
+    background-color: white;
+    border: red 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    width: 80%;
+    
+}
+h2{
+    text-align: center;
+    color: #A52A2A;
+}
+h1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    color: #A52A2A;
+}
+table{
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+td, th {
+  border: 5px solid #000000;
+  padding: 0.5rem;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 5px;
+  
+}
+
