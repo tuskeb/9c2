@@ -1,0 +1,14 @@
+div{
+    border: red 1px solid;
+    padding: 8px;
+    margin: 8px;
+}
+
+table.Táblázat{
+    opacity: 0.7;
+}
+
+img{
+    display: block;
+    width: 96%;
+}
