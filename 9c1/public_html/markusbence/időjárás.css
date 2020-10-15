@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.10.13., 13:01:11
+    Author     : user
+*/
+
+body{
+    background-color: #ffebcd;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+        
+}
+
+hr{
+    width: 50%;
+    margin: auto;
+    border: 1px #e9967a solid;
+    
+}
+
+
+div#kozopso tr, td{
+    border: 2px black solid;
+}
+
+table{
+    margin: auto;
+}
+
+div#fejlec{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 3px #e9967a solid;
+    border-radius: 12px;
+    background-color: white;
+    
+}
+
+div#kozopso{
+    background-color: white;
+    border: 2px #e9967a solid;
+    border-radius: 12px;
+}
+
+img{
+    display: block;
+    width: 96%;
+        
+}
+
+p{
+    color: #a52a4d;
+}
+
+h1{
+    color: #a52a2a;
+}
+h2{
+    color: #a52a2a;
+}
+

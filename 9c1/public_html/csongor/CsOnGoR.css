@@ -31,9 +31,12 @@ table {
     margin-left: auto;
     margin-right: auto;
     color:white;
-background-color: brown}
+    background-color: brown}
 
 td, th {
     border: 2px solid white; padding:0.5rem}
 
 th {text-decoration: underline}
+
+video {margin-left:auto;
+       margin-right:auto}

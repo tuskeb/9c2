@@ -1,0 +1,39 @@
+body {background-color: #ffebcd}
+
+.center {background-color: white;
+         border:  red 1px solid;
+         padding: 8px;
+         border-radius: 10px;
+         width: 50%;
+         margin-bottom: 8px}
+
+#center2 {border-bottom: #A52A2A 1px solid; 
+          width: 25%;
+          padding-bottom: 8px}
+
+* {margin-left: auto; 
+   margin-right:auto;
+   text-align: center; 
+   color: #A52A2A;}
+
+table {margin-left: auto;
+       margin-left: auto;}
+
+img {width: 80%;
+     margin-left: auto;
+     margin-right: auto}
+
+.cs {border: white 2px solid;
+     border-radius: 10px;
+     box-shadow: 4px 4px 3px 6px black;
+     padding: 8px}
+
+.css {border: white 2px solid;
+      border-radius: 10px;
+      box-shadow: 4px 4px 3px 6px black;
+      padding: 8px}
+
+.ccs {border: white 2px solid;
+      border-radius: 10px;
+      box-shadow: 4px 4px 3px 6px black;
+      padding: 8px}
