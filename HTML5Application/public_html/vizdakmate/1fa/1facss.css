@@ -1,0 +1,44 @@
+img{
+    display: block;
+    width: 96%;
+}
+div{
+    background: white;
+     color:firebrick;
+     
+   }
+   body{
+       background:#ffeecc;
+        
+     }      
+
+h1{
+ margin-left: auto;
+ margin-right: auto;
+ padding-bottom: 30px;
+ margin-bottom: 20px;
+ text-align: center;
+ border-bottom: szin 1px solid;
+ width: 50%;
+}   
+ 
+h2{
+ margin-left: auto;
+ margin-right: auto;
+ padding-bottom: 15px;
+ margin-bottom: 10px;
+ text-align: center;
+ border-bottom: szin 2px solid;
+ width: 50%;
+ }
+ p{
+  padding: 10px;
+  line-height: 30px;
+  font-family: sans-serif;
+  border-radius: 20px;
+  margin: 15px;
+       
+  }
+  
+  tr{
+      box-
