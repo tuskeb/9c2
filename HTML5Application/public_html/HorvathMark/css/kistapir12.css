@@ -10,18 +10,15 @@ div{
     background: white;
 }
 
-table>tbody>tr>td.zöld{
-    color: white;
+table td:nth-child(1){
     background-color: #00802b;
 }
 
-table>tbody>tr>td.kék{
-    color: white;
+table td:nth-child(2){
     background-color: #0000ff;
 }
 
-table>tbody>tr>td.piros{
-    color: white;
+table td:nth-child(3){
     background-color: #ff0000;
 }
 
@@ -30,6 +27,11 @@ table>caption{
 }
 table{
     caption-side: bottom;
+    color: white;
+    border-spacing: 20px;
+    text-align: center;
+    
+    
 }
 
 h1{
@@ -50,5 +52,5 @@ div.box{
     border-radius: 10px;
     margin: 20px;
     font-family: sans-serif;
-    border: orange 1px solid;
+    border: firebrick 1px solid;
 }
