@@ -7,13 +7,12 @@ and open the template in the editor.
     Created on : 2020.10.02., 8:06:29
     Author     : tanulo
 */
-#elso{font-size 
+#elso {font-size:20px} 
     
-}
 #masodik{
     font-family:sans-serif
 }
 #harmadik{
     color:#47ff78
 }
-div#menu>ul>il a:hover
+div#menu>ul>il a:hover {color:white}

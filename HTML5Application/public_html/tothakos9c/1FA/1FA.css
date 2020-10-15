@@ -1,0 +1,94 @@
+
+img{
+    display: block;
+    width: 96%;
+    margin: 10px;
+    border-radius: 10px;
+}
+body {
+    background: #ffeecc;
+    font-family: sans-serif;
+}
+
+div {
+    background: white;
+    color: firebrick;
+    border-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border-radius: 20px;
+    padding: 15px;
+    font-family: sans-serif;
+    line-height: 19px;
+}
+
+h1 {
+    color: firebrick;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: firebrick 1px solid;
+    width: 20%;
+}
+
+div.első {
+    border: firebrick 2px solid;
+    margin-bottom: 10px;
+}
+div.második {
+    border: firebrick 2px solid;
+    margin-bottom: 10px;
+}
+div.harmadik {
+    border: firebrick 2px solid;
+    margin-bottom: 10px;
+}
+div.negyedik {
+    border: firebrick 2px solid;
+    margin-bottom: 10px;
+}
+div.ötödik {
+    border: firebrick 2px solid;
+    margin-bottom: 10px;
+}
+
+table>caption {
+    margin-bottom: 5px;
+    color: gray;
+    margin-top: 20px;
+    
+}
+table {
+    color: white;
+   caption-side: bottom;
+   text-align: center;
+   margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+h2 {
+    text-align: center;
+}
+ table td:nth-child(1){
+    background-color: green;
+    border: #f0f5f5 4px solid;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px 5px #7f7f7f;
+}
+
+table td:nth-child(2){
+    background-color: blue;
+    box-shadow: 5px 5px 5px 5px #7f7f7f;
+    border: white 4px solid;
+    border-radius: 25px;
+}
+
+table td:nth-child(3){
+    background-color: red;
+    box-shadow: 5px 5px 5px 5px #7f7f7f;
+    border: white 4px solid;
+    border-radius: 25px;
+}   
