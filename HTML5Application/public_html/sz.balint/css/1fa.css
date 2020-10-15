@@ -62,11 +62,11 @@ caption{
     margin-right: 800px;
 }
 table.idojaras1 td:nth-child(1){
-    background-color: green;
+    background-color: #339933;
 
 }
 table.idojaras1 td:nth-child(2){
-    background-color: blue;
+    background-color: #0066ff;
     padding: 4px;
 }
 table.idojaras1 td:nth-child(3){
