@@ -13,22 +13,23 @@ h2{
 
 p{
     color:#990000;
+    text-align: left;
 }
 
 div{
     border: #cc6600 1px solid;
     margin-bottom: 15px;
     background: white;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 200px;
+    margin-right: 200px;
     border-radius: 20px;
 }
 
 img{
     border: gray 5px solid;
-    width: 1250px;
+    width: 750px;
     padding: 12px;
-    mmargin: 12px;
+    margin: 12px;
 }
 
 caption{
@@ -41,13 +42,14 @@ table{
     margin-left: auto;
     margin-right: auto;
     width: 250px;
+    border-spacing: 20px;
 }
 
 table.nemtom{
     caption-side: bottom;
 }
 
-.div2{
+.divmasodik{
     margin-left: 700px;
     margin-right: 700px;
 }
@@ -64,6 +66,7 @@ table.nemtom td:nth-child(2){
     box-shadow: 5px 5px 5px 5px #7f7f7f;
     border: white 4px solid;
     border-radius: 25px;
+    padding: 1px;
 }
 
 table.nemtom td:nth-child(3){
