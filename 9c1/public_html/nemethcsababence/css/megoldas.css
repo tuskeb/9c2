@@ -1,0 +1,41 @@
+body{
+    background-color: #FFEBCD;
+
+}  
+
+#borderszine{
+    background-color: white;    
+
+}
+#kozep,h2{
+    text-align: center;  
+}
+#tablaszine{
+    background-color: white;
+}
+#cucszine{
+    background-color: white;
+}
+#ezszine{
+    background-color: white;
+}
+#emezszine{
+    background-color: white;
+}
+#borderszine,#kozep,#cucszine,#tablaszine,#emezszine,#kep{
+    border: 2px white;
+    border-radius: 5px;
+}
+
+.kor1{
+    border: 2px white;
+    border-radius: 5px;
+}
+.kor2{
+  border: 2px white;
+  border-radius: 5px;
+}
+.kor3{
+  border: 2px white;
+  border-radius: 5px;
+}
