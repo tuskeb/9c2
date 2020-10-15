@@ -26,6 +26,7 @@ h2{
 }
 h1{
     color: #990000;
+    
 }
 p{
     color: #990000;
@@ -39,8 +40,8 @@ table.idojaras1{
 }
 img{
       width: 300px;
-  border: 5px solid grey;
-  padding: 12px;
+  border: 1px solid grey;
+  padding: 8px;
   margin: 12px;
     width: 1000px;
 }    
@@ -62,11 +63,11 @@ caption{
     margin-right: 800px;
 }
 table.idojaras1 td:nth-child(1){
-    background-color: green;
+    background-color: #339933;
 
 }
 table.idojaras1 td:nth-child(2){
-    background-color: blue;
+    background-color: #0066ff;
     padding: 4px;
 }
 table.idojaras1 td:nth-child(3){
