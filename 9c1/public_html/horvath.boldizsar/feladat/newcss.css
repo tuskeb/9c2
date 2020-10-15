@@ -1,0 +1,94 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.10.13., 13:28:47
+    Author     : user
+*/
+
+
+* {text-align: center;
+   color: #A52A2A;
+   margin: left}
+
+body{
+    background-color: #FFEBCD
+}
+h1{
+    font-style: italic
+}
+div{
+    color:#A52A2A;
+    background-color: white;  
+}
+div{
+    border: #E9967A 1px solid;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+   
+    
+}
+table>tbody>tr>td{
+    color: white;
+    border-radius: 10px;
+    border: white 5px solid;
+    box-shadow: 3px 3px 8px 5px grey;
+    font-size: 20px;
+    
+
+
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+caption{
+    text-align: center;
+    color:grey
+}
+div{
+  caption-side: bottom;
+}
+.zold{
+    background-color: #008000;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 100px;
+    padding-left:30px;
+    padding-right:30px;
+    
+    
+}
+.kek{
+    background-color: #0000FF;
+    margin: 10px;
+    border-radius: 180px;
+    padding-left: 0px; 
+    padding-right: 0px
+}
+.piros{
+    background-color: #FF0000;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 100px;
+    padding-right: 1px;
+    padding-left: 1px
+}
+*{
+   margin-top: 5px ;
+   margin-right: 20px;
+   margin-bottom: 5px;
+   margin-left: 20px;
+}
+img {
+  padding: 5px;
+  width: 1200px;
+  align-content: center;
+  box-shadow: 3px 3px 8px 5px grey
+}
+b{
+    color:white;
+}
