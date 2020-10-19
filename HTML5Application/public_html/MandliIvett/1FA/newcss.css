@@ -16,10 +16,7 @@ h2 {
 p {
   color: maroon;
   line-height: 20px;
-}
-
-p1 {
-  color: grey;
+  text-align: left;
 }
 
 div {
@@ -33,7 +30,7 @@ div {
 }
 
 img {
-    width: 60%;
+    width: 90%;
     border: grey 1px solid;
 }
 
@@ -45,4 +42,37 @@ table {
     padding-top: 2px;
     padding-bottom: 2px;
     font-size: 16px;
+}
+
+caption{
+    margin: 18px;
+    color:gray;
+    caption-side: bottom;
+}
+
+table.tablazat td:nth-child(1){
+    background-color: green;
+    border: #f0f5f5 4px solid;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px 5px #7f7f7f;
+}
+
+table.tablazat td:nth-child(2){
+    background-color: blue;
+    box-shadow: 5px 5px 5px 5px #7f7f7f;
+    border: white 4px solid;
+    border-radius: 25px;
+    padding: 5px;
+}
+
+table.tablazat td:nth-child(3){
+    background-color: red;
+    box-shadow: 5px 5px 5px 5px #7f7f7f;
+    border: white 4px solid;
+    border-radius: 25px;
+}
+
+td{
+    color: white;
+    padding: 4px;
 }
