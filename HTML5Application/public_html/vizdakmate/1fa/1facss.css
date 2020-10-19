@@ -31,7 +31,17 @@ h2{
  border-bottom: szin 2px solid;
  width: 50%;
  }
- p{
+ div1{
+  padding: 20px;
+  line-height: 30px;
+  font-family: sans-serif;
+  border-radius: 20px;
+  margin: 20px;
+       
+  }
+  
+  div2{
+
   padding: 10px;
   line-height: 30px;
   font-family: sans-serif;
@@ -40,5 +50,11 @@ h2{
        
   }
   
-  tr{
-      box-
+  
+  table{
+       background: white;
+       border: firebrick 1px solid;
+       text-align: :center;
+       border-spacing
+    
+     
