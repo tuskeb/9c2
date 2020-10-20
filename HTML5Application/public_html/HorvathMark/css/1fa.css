@@ -10,18 +10,15 @@ div{
     background: white;
 }
 
-table>tbody>tr>td.zöld{
-    color: white;
+table td:nth-child(1){
     background-color: #00802b;
 }
 
-table>tbody>tr>td.kék{
-    color: white;
+table td:nth-child(2){
     background-color: #0000ff;
 }
 
-table>tbody>tr>td.piros{
-    color: white;
+table td:nth-child(3){
     background-color: #ff0000;
 }
 
@@ -30,8 +27,13 @@ table>caption{
 }
 table{
     caption-side: bottom;
+    color: white;
+    border-spacing: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
 }
-
 h1{
     margin-left: auto;
     text-align: center;
@@ -50,5 +52,18 @@ div.box{
     border-radius: 10px;
     margin: 20px;
     font-family: sans-serif;
-    border: orange 1px solid;
+    border: firebrick 1px solid;
+}
+td{
+    border: white 5px solid;
+    border-radius: 150px;
+    padding: 6px;
+    box-shadow: 0px 0px 5px 5px #7f7f7f;
+}
+
+img{
+   border: 2px solid grey;
+   padding: 8px;
+   margin: 15px;
+   width: 1225px;
 }
