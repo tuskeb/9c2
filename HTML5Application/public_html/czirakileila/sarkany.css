@@ -11,6 +11,7 @@ body{
 	margin-bottom: 50px;
 	border-top-left-radius: 50px;
 	border-bottom-right-radius: 50px;
+        padding: 35px;
 }
 
 h1{
@@ -26,7 +27,7 @@ p{
   line-height: 150%;
 }
 
-.kepkeret {
+div.kepkeret {
   width: 375px;
   float: right;
   text-align: center;
