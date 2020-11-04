@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020.11.04., 10:57:48
+    Author     : user
+*/
+
+div{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+ 
+}
+body{
+    font-family: sans-serif;
+	background-image: url('viztukor.png');
+}
+
+div{
+	background-image: url('fatyol.png');
+	width: 880px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-top-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+h1{
+	color: indigo;
+	font-variant: small-caps;
+	text-shadow: 1px 1px white;
+        
+}
+
+p{
+  text-indent: 35px;
+  text-align: justify;
+  letter-spacing: -0.1px;
+  line-height: 150%;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 25px;
+}
+
+.kepkeret {
+  width: 375px;
+  float: right;
+  text-align: center;
+  font-size: 75%;
+  padding: 0px 5px 5px;
+  margin-left: 10px;
+  background-image: url('fatyol.png');
+  border-radius: 25px;
+  overflow: hidden;
+  box-shadow: 10px 10px 10px gray;  
+}
+
+.kepkeret img{
+	width: 385px;
+  position: relative;
+  left: -5px;
+}
+
+
+a{
+  text-decoration: none;
+}
+img{
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 10px #d4d4d4;
+    width: 400px;
+    margin-left: 450px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
