@@ -10,8 +10,49 @@ img.bicikli{
 }
 
 img.gamer{
-    border-radius: 5px;
-    box-shadow: 5px 5px blueviolet;
-    border: royalblue solid 2px;   
+    border_radius: 5px;
+    box-shadow:  5px 5px blueviolet;
+    border: blue solid 2px;
 }
 
+table.egyikfajta{
+    border: black 2px solid;
+    border-radius: 5px;
+    box-shadow: 4px 4px 10px 0px #7f7f7f;
+    border-spacing: 0px;
+    /*border-collapse: collapse;*/
+    caption-side: top;
+}
+
+table.egyikfajta>tbody>tr>td{
+        border: #7f7f7f 1px solid;
+        
+}
+
+table.egyikfajta>tbody>tr:nth-child(2n){
+    background-color: royalblue;
+}
+
+table.egyikfajta>tbody>tr:nth-child(2n+1){
+    background-color:  blueviolet;
+}
+
+table.egyikfajta>tbody>tr>td{
+    border:  black 1px solid;
+    min-width: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 1.5px; 
+    padding-top:    1.5px;
+}
+
+table.egyikfajta>thead>tr>th{
+    background-color: lightskyblue;
+}
+
+table.egyikfajta>caption{
+    background-color:  pink;
+    border: 2px  black solid;
+    font-family:  cursive;
+    font-size: 20px;
+}
