@@ -3,7 +3,7 @@ body{
 	background-image: url('viztukor.png');
 }
 
-#leiras{
+.leiras{
 	background-image: url('fatyol.png');
 	width: 880px;
 	margin: auto;
@@ -49,4 +49,7 @@ p{
 a{
   text-decoration: none;
 }
+
+#bob {color: pink;
+font-size: 500px}
 
