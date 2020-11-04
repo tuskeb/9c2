@@ -9,6 +9,8 @@ div.kepkeret {
     border-radius: 25px;
     overflow: hidden;
     box-shadow: 10px 10px 10px gray;  
+    border: darkblue 2px solid;
+    font-style: italic;
 }
 
 h1, h2{
@@ -49,4 +51,8 @@ a{
     border-top-left-radius: 50px;
     border-bottom-right-radius: 50px;
     padding: 35px;
+}
+
+li {
+    margin-bottom: 40px;
 }
