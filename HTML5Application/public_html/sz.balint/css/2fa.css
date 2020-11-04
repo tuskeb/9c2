@@ -14,16 +14,12 @@ ody{
         padding: 35px;
 }
 
-h1{
+h1 , h2{
 	color: indigo;
 	font-variant: small-caps;
 	text-shadow: 1px 1px white;
 }
-h2{
-	color: indigo;
-	font-variant: small-caps;
-	text-shadow: 1px 1px white;
-}
+
 
 
 p{
