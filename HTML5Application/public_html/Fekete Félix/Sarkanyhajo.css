@@ -72,5 +72,20 @@ li{
     text-align: left;
     margin-bottom: 25px;
 }
+a:link{color: darkred;
+       background-color: transparent;
+       text-decoration: none    
+}
+a:visited{color: darkred;
+         background-color: transparent;
+         text-decoration: none    
+}
 
- 
+a:hover{color:orangered;
+        background-color: transparent;
+         text-decoration: none    
+}
+a:active{color: orange;
+           background-color: transparent;
+         text-decoration:none    
+}
