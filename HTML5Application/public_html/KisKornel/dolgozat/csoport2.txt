@@ -1,0 +1,21 @@
+index.html módosítása
+
+A teljes oldal tartalmát tegye egy DIV keretbe, amelyet a frame osztállyal lát el.
+Az együttes neve legyen 1-es szintű címsor.
+Adja hozzá a táblázathoz a címet, "Discography of Manfred Mann's Earth Band".
+A kép valami miatt nem jelenik meg. Javítsa a problémát.
+Oldja meg, hogy az oldal alján lévő hivatkozások új böngészőlapon jelenjenek meg.
+A <div id="lyrics"> elemre készített stíluslap valami miatt nem működik. Javítsa ki a hibát.
+
+index.css módosítása
+
+Az oldal háttere legyen fekete.
+Az 1-es címsor betűmérete legyen 80 képpontos, középrezárt.
+A kép szélessége legyen 480 képpont.
+A kép legyen középen.
+A kép alatt és felett legyen 20 képpont térköz.
+Az impresszumban lévő hivatkozások szélét kerekítse le 12 pixellel.
+Az impresszumban lévő hivatkozások belső margóját állítsa 10 pixelre minden oldalon.
+A táblázat háttere legyen csíkos. Ehhez használja a bisque és a wheat színeket.
+A div#impressum>h2 stílust terjessze ki a div#lyrics>h2 stílusra is.
+
