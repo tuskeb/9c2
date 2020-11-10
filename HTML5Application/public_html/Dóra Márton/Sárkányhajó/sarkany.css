@@ -1,9 +1,9 @@
-body{
+body {
     font-family: sans-serif;
     background-image: url('viztukor.png');
 }
 
-#leiras{
+#leiras {
     background-image: url('fatyol.png');
     width: 880px;
     margin: auto;
@@ -35,15 +35,14 @@ p{
     padding: 0px 5px 5px;
     margin-left: 10px;
     background-image: url('fatyol.png');
-    border-radius: 15px;
+    border-radius: 25px;
     overflow: hidden;
-    box-shadow: 10px 10px 10px gray;
+    box-shadow: 10px 10px 10px gray; 
     border: darkblue 2px solid;
     font-style: italic;
-    margin-bottom: 15px;
 }
 
-img{
+kepkeret img{
     width: 385px;
     position: relative;
     left: -5px;
@@ -56,5 +55,5 @@ a{
 }
 
 li{
-    margin-bottom: 25px; 
+    margin-bottom: 25px;
 }
