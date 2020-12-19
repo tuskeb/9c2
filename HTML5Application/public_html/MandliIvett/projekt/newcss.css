@@ -1,0 +1,22 @@
+* {
+    border: black 1px solid;
+    padding: 3px;
+    overflow: auto;
+}
+
+img.balra {
+    width: 33%;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+.nincskoruliras {
+    clear: both;
+    background-color: darkblue;
+}
+
+p {
+    background-color: lightblue;
+}
