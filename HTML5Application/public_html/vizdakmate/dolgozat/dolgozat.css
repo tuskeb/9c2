@@ -1,0 +1,31 @@
+h1{
+    color: aqua;
+    font-size: 90px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 20px solid;
+    background-color: #00cccc;
+   
+}
+
+p{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+body{
+  text-align: center; 
+  font-family: sans-serif;
+}
+
+
+table, th, td {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+img{
+background-color: #00cccc;
+border-radius: 15px;
+
+}
