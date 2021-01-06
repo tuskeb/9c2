@@ -1,8 +1,11 @@
 body{
     background-color: #82bbf6;
+    font-family: sans-serif;
 }
 #frame{
     text-align: center;
+    position: relative;
+ 
 }
 
 #head{
@@ -21,14 +24,12 @@ body{
 }
 
 #menu{
-    box-sizing: border-box;
-    display: inline-block;
     padding-top: 5px;
     width: 50%;
     background-color: white;
     text-align: center;
-    
-
+    box-sizing: border-box;
+    display: inline-block;
 }
 
 #left{
@@ -44,19 +45,16 @@ h1{
 
 #right{
     float: right;
-    width: 10%;
-
+    width: 50%;
 }
 
 .bsod{
     opacity: 0.3;
-    text-align: left;
+    text-align: center;
     position: absolute;
-    top: 100px;
-    left: 210px;
+    top: 93px;
+    left: 485px;
     font-size: 20px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .text{
