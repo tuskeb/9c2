@@ -3,19 +3,18 @@ body{
     font-family: sans-serif;
 }
 #frame{
-    text-align: center;
-    position: relative;
- 
+    text-align: center;    
+     position: absolute;
+     
 }
 
 #head{
     background-color: #2067b2;
-    text-align: center;
     color: white;
-    margin-bottom: 60px;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+    overflow: hidden;
 }
 
 #foot{
@@ -23,13 +22,18 @@ body{
     text-align: center;
 }
 
-#menu{
-    padding-top: 5px;
-    width: 50%;
-    background-color: white;
-    text-align: center;
-    box-sizing: border-box;
+div#menu a {    
     display: inline-block;
+    width: 25%;
+    padding-top: 5px;
+    box-sizing: border-box;
+    background-color: white;
+     text-align: center;
+     position: relative;
+     height: 30px;
+     color: #2067b2;
+   text-decoration: none;
+     
 }
 
 #left{
@@ -37,15 +41,17 @@ body{
     font-size: 20px;
       margin-left: 30%;
     margin-right: 30%;
+    
 
 }
 h1{
      color: blue;
 }
 
-#right{
+div#right{
     float: right;
-    width: 50%;
+    margin-left: 100px;
+    width: 50%
 }
 
 .bsod{
@@ -57,9 +63,13 @@ h1{
     font-size: 20px;
 }
 
-.text{
-    margin-top: 10px;
+div.text{
+    
     font-size: 30px;
+    position: absolute;
+    top: 61px;
+    left: 30%;
+    
 }
 
 .smile{
