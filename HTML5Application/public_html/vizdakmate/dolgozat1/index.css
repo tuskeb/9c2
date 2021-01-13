@@ -1,0 +1,117 @@
+body, h1, h2, p{
+    padding: 0px;
+    margin: 0px;
+    font-family: monospace;
+}
+
+*{
+    overflow: auto;
+}
+
+h1{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+h2{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+p{
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 22px;
+    font-size: 14px;    
+}
+
+h1:first-letter{
+    color: red;
+    font-weight: bold;
+}
+
+.virtual{
+    width: 960px;
+    height: 671px;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+     background-image: url('laptop.jpg');
+}
+.virtual img{
+    width: 300px;
+    border: white 1px solid;
+    border-top-width: 10px;
+    box-shadow:  0px 0px 5px 5px rgba(0,0,0,0.4);
+    position: absolute;
+    
+}
+
+.virtual img:nth-child(1){
+    margin-left: 170px;
+    margin-top: 70px;
+
+}
+
+.virtual img:nth-child(2){
+    margin-left: 370px;
+    margin-top: 80px;
+}
+
+.virtual img:nth-child(3){
+    margin-left: 200px;
+    margin-top: 170px;
+}
+
+.virtual img:nth-child(4){
+    margin-left: 500px;
+    margin-top: 170px;
+}
+
+#content{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow:  0px 0px 5px 5px rgba(0,0,0,0.4);
+    border-left: black 1px solid;
+    border-right: black 1px solid;
+    border-top: white 1px solid;
+    border-bottom: white 1px solid;    
+    padding: 20px;
+    padding-top: 0px;
+}
+
+.film img{
+    margin-top: 32px;
+    width: 200px;
+}
+
+
+.film h2{
+    margin-top: 0px;
+    border-bottom: black 1px solid;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.film p{
+    padding-left: 20px;
+}
+
+.film{
+    margin-bottom: 20px;
+    width: 200px;
+}
+
+.references{
+    width: 70%;
+}
+
+.references a{
+    display: block;
+    margin-bottom: 10px;
+    color: darkblue;
+    text-align: center;
+}
